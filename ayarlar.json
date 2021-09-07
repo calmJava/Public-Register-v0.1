@@ -31,5 +31,6 @@
 
   "welcometheserver" : "Kayıt Kanal id gir",
   "registerlog" : "Kayıt Log id gir",
-  "botseskanal" : "</> Ses Kanalı id gir"
+  "botseskanal" : "</> Ses Kanalı id gir",
+  "tagrollog" : "Tag Rol Log id gir"
 }
