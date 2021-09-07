@@ -203,7 +203,7 @@ client.on("userUpdate", async (oldUser, newUser) => {
   if (oldUser.username !== newUser.username) {
   const tag = (ayarlar.tag)
   const sunucu = (ayarlar.sunucu)
-  const log = (ayarlar.registerlog)
+  const log = (ayarlar.tagrollog)
   const rol = (ayarlar.taggesROL)
 
   try {
