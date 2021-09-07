@@ -1,0 +1,35 @@
+  {
+  "prefix" : ".",
+  "sahip" : "709453894442549258",
+  "sunucu" : "884169585572610068",
+  "token" : "ODU4Nzc4MzAxMDM1MTg0MTI4.YNjFng.h01pznCeOkPxFdlZSN_Qwqa7QzU",
+  
+  "tag" : "TAGINIZ",
+  "yasaklıtag" : ["yasaklı tag daha varsa devam ettir","",""],
+
+  "footer" : "Sunucu İsmi ❤️ İsmin",
+  "durum" : "Sunucu İsmi ❤️ İsmin",
+  "oynuyor" : "WATCHING",
+
+  "yetkiliROL" : "Bot Commands rol gir",
+
+  "erkekROL" : "Man rol id gir",
+  "erkekICON" : "♂ rol id gir",
+  "erkekSEMBOL" : "XY rol id gir",
+
+  "kadınROL" : "Woman rol id gir",
+  "kadınICON" : "♀ rol id gir",
+  "kadınSEMBOL" : "XX rol id gir",
+
+  "kayıtsızROL" : "Plebs rol id gir",
+  "vipROL" : "Ender rol id gir",
+  "taggesROL" : "Family rol id gir",
+  "yasaklıtagROL" : "Yasaklı Tag rol id gir",
+
+  "botROL" : "Botun İsmi Yazan rol id gir",
+
+
+  "welcometheserver" : "Kayıt Kanal id gir",
+  "registerlog" : "Kayıt Log id gir",
+  "botseskanal" : "</> Ses Kanalı id gir"
+}
